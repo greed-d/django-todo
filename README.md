@@ -44,6 +44,6 @@ Django version 5.1.4, using settings 'todo_project.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
 ```
-- Go to the link it provides `127.0.0.1:8000/` in my case
+- Go to the link it provides, `127.0.0.1:8000/` in my case
 
 
